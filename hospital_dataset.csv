@@ -1,0 +1,6 @@
+Patient_ID,Name,Age,Gender,Diagnosis,Admission_Date,Discharge_Date,Room_Number,Doctor
+101,Alice Smith,29,Female,Flu,2024-12-10,2024-12-12,101,Dr. Adams
+102,Bob Johnson,34,Male,Diabetes,2024-12-09,2024-12-15,202,Dr. Baker
+103,Charlie Brown,45,Male,Hypertension,2024-12-08,2024-12-20,303,Dr. Carter
+104,Diana Prince,38,Female,Asthma,2024-12-07,2024-12-14,404,Dr. Daniels
+105,Eve White,50,Female,Arthritis,2024-12-06,2024-12-16,505,Dr. Evans
